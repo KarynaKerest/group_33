@@ -1,0 +1,5 @@
+./d1/n1.txt:Anna
+./d1/n1.txt:Anna
+./d1/n2.txt:Anna
+./d3/n3.txt:Anna
+./d3/n3.txt:Anna

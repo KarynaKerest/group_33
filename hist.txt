@@ -1,0 +1,99 @@
+230  git status
+  
+231  git add
+  
+232  git add .
+  
+233  git status
+  
+234  git help
+  
+235  get help git
+  
+236  git
+  
+237  mkdir keri qa
+  
+238  cd keri qa
+  
+239  cd keri qa
+  
+240  git clone https://github.com/KarynaKerest/group_33.git
+  
+241  git status
+  
+242  git status
+  
+243  git status
+  
+244  pwd
+  
+245  mkdir d1 d2 d3
+  
+246  mkdir d1 d2 d3
+  
+247  cat > d1/n1.txt
+  
+248  cat > d1/n2.txt
+  
+249  cat > d2/n3.txt
+  
+250  find d1 -name 'n*'
+  
+251  find d1 -name 'n'
+  
+252  find d1 -name 'n*'
+  
+253  find d2 -name 'n*'
+  
+254  find . -name 'n*'
+  
+255  find . -type d -name 'd*'
+  
+256  find . -type f -name 'd*'
+  
+257  find . -name 'n*'
+  
+258  grep Anna d1/n1.txt
+  
+259  grep Anna d1/n1.txt d2/n3.txt
+  
+260  ls -la d1
+  
+261  ls -la d2
+  
+262  cat d2/n3.txt
+  
+263  cat > d3/n3.txt
+  
+264  grep Anna d1/n1.txt d3/n3.txt
+  
+265  grep -r Anna . 
+  
+266  grep -r Anna . > anna_logs.txt
+  
+267  cat anna_logs.txt
+  
+268  cat >> d3/n3.txt
+  
+269  grep -r Anna . 
+  
+270  grep -r -i anna . 
+  
+271  grep -r -i Anna . 
+  
+272  cat >> d1/n2.txt 
+  
+273  grep -r -i Anna . 
+  
+274  grep -r -i -w Anna . 
+  
+275  history > hist.txt
+  
+276  history > hist.json
+  
+277  history 50
+  
+278  hitory 50 > hist.txt
+  
+279  history 50 > hist.txt
